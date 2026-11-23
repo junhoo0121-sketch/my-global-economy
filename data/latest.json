@@ -1,7 +1,34 @@
 {
-  "date": "2026-11-23",
-  "updated_at": "2026-11-23T05:33:49.359864+09:00",
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T05:39:59.877594+09:00",
   "articles": [
+    {
+      "region": "미국",
+      "title": "Weekly market commentary - BlackRock",
+      "title_ko": "주간 시장 논평 - BlackRock",
+      "translation_ok": true,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published": "Mon, 23 Nov 2026 16:26:20 GMT"
+    },
+    {
+      "region": "미국",
+      "title": "The stock market faces a worrying scenario: a sell-off with no flight to safety - Fortune",
+      "title_ko": "주식시장은 걱정스러운 시나리오에 직면해 있습니다. 안전을 향한 도피가 없는 매도 - Fortune",
+      "translation_ok": true,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53azFCeHE5OFVHQnQwZFdzSXlGZ19LM3E2QlhKYlRYbDJhanJ0ZjczU0sycUpvNGRMYnZKQ0J3TFNYS3V3bE5IcWZibDdxZlpxMkJtVFJiRmUtZlR3RkFzQWQwMG1jeDlKWEZhOFN1MGkzckxBXzV1NndB?oc=5",
+      "source": "Fortune",
+      "published": "Mon, 23 Nov 2026 09:23:00 GMT"
+    },
+    {
+      "region": "미국",
+      "title": "How exposed is the US economy to an AI market crash? - TheBanker.com",
+      "title_ko": "미국 경제는 AI 시장 붕괴에 얼마나 노출되어 있습니까? - TheBanker.com",
+      "translation_ok": true,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LZWtDVno3MUdNZXVKV09xS1lDY1ZsTWsxNHRvMEFUMjdlS1NjLWJBTUFUbG90NmJscTI4cGxuaXFCQ1otRmFxVkZvN2piMnFRUFFlYU5vQUN3VENLTm9YZ1FmdzZWbVFZLWpWU3FLUWstZjBwY0pjNDNR?oc=5",
+      "source": "TheBanker.com",
+      "published": "Mon, 23 Nov 2026 15:16:01 GMT"
+    },
     {
       "region": "미국",
       "title": "Boom or Bubble? Understanding AI and the U.S. Economy - Council on Foreign Relations",
@@ -13,48 +40,12 @@
     },
     {
       "region": "미국",
-      "title": "The AI boom had a really bad week — and it's raising loud alarms - NPR",
-      "title_ko": "AI 붐은 정말 나쁜 한 주를 보냈고 큰 경보를 울리고 있습니다 - NPR",
+      "title": "Markets Brief: What’s Next for the Biggest Trend in the Stock Market? - Morningstar",
+      "title_ko": "시장 요약: 주식 시장의 가장 큰 추세에 대한 다음 단계는 무엇입니까? - 모닝스타",
       "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5",
-      "source": "NPR",
-      "published": "Sat, 21 Nov 2026 10:00:00 GMT"
-    },
-    {
-      "region": "미국",
-      "title": "Stock market correction? This chief investment officer sees the S&P 500 soaring 45% to 10,000 - Fortune",
-      "title_ko": "주식시장 조정? 이 최고투자책임자(CIO)는 S&P 500이 45% 상승해 10,000이 될 것으로 보고 있습니다. - Fortune",
-      "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWMydm9FbVFNbEVhQVl6RHhuZnVYbzZ3UGE5clZSWWtHd0VnOWZvamxqbGMzVllwaXlqb09Za3FDaFhFMWFGYTN4ZktCSXF4TnNWN0J5VnJ1VFEtUmtIbVBYVVJtWkdxbGRUZ0tmREJtRkhlaVJ0dHlHcU16eEYwdTNvMUpkTEpHVjlqdzNoYk5TMHVtUHFwcjRVc3hGNEJx?oc=5",
-      "source": "Fortune",
-      "published": "Sun, 22 Nov 2026 00:02:00 GMT"
-    },
-    {
-      "region": "미국",
-      "title": "The New York Times. . Following Anthropic’s debut on public markets, our reporter explains how A.I. has become a huge piece of the U.S. economy and how it might be risky. https://nytimes.visitlink.me/eqDJxY - Facebook",
-      "title_ko": "뉴욕 타임즈. . Anthropic이 공개 시장에 데뷔한 후, 우리 기자가 A.I. 미국 경제의 큰 부분이 되었으며 그것이 얼마나 위험할 수 있는지. https://nytimes.visitlink.me/eqDJxY - 페이스북",
-      "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDJqdTZQRmU5RFV3alY2a3FWZnJsTmRudjhYaFNWVndCa244SUNucHBIZUltV24xc2hPeVpBOUNWOTAwRjdZRlJfbGFYOXQ4OUlOWkYzT09heHNsZnlXQUV0ZDltNEVZUk04MEFPaUtIUG5uU2tZcjhveEdFSmxMSThVOFNzZGdidjVqang2ZmhsbWpaNWdrQ2FES1VzNHhIUTFGZzQydmt4NDhuNXVNZmhnSjhIQldqUUYtSnRreWxjVG95WnlXcTJuZUxkUWo1OVJJNA?oc=5",
-      "source": "Facebook",
-      "published": "Fri, 20 Nov 2026 21:35:11 GMT"
-    },
-    {
-      "region": "미국",
-      "title": "U.S. stocks slump into correction territory amid tech and AI worries - The Washington Post",
-      "title_ko": "미국 주식은 기술과 AI 우려로 조정 영역으로 급락 - 워싱턴 포스트",
-      "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmlPb2NNTTRIVWI5NXJFQUd2MXNkdkFtNzIxODZMZjdEbVFsUWQyWjRQT1AxMUE5YS1nRnZ6U21mN0J1V21IVFFRZEthZms4bkM0MDRNQlR6RkRtcUp2aUJqTnQ2YlloTU9ObkpmLUs1NWgyUXpubUxndklKTElFbExrY3ZtamdWNEpRUG5lNGd2VVZZdHVIUHp3eU1Wc0RzenQ0YQ?oc=5",
-      "source": "The Washington Post",
-      "published": "Sat, 21 Nov 2026 06:26:59 GMT"
-    },
-    {
-      "region": "중국",
-      "title": "The AI bust is a growing threat to China's economy and a 'moment of real danger' for President Xi Jinping, analyst warns - Fortune",
-      "title_ko": "AI 붕괴는 중국 경제에 대한 위협이 커지고 있으며 시진핑 주석에게 '실질적인 위험의 순간'이라고 분석가가 경고 - Fortune",
-      "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG5tbmx0N1dqVUw3NEtYNF9DU21hdXZNMlIzX21VV1ZrTG5wNWNlT0V2VVhhOFBsUjdHMFFaZW1sQVg1b2xZeWlodm1tREVoWTluTHhZWnMzVUl6a2JqcE5nblpZS1hlSjZRS2ZqNV95OFBTa05wUlpWMWJrUmlnTDhHazRXWEpHZW5yV1hPWGx4a21XYnZV?oc=5",
-      "source": "Fortune",
-      "published": "Sat, 21 Nov 2026 21:45:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWQtLVlqR1ZHMTZmR3J5WENMV1NTY19TVEktT3V3YXpOWk9Ta25Qc1pOQl9TaV9uQ0lmeXctOThHSEpQMWIxWENIXzkzZzQ2QlFBX2V2MXcxMGQ3VGFFU2xiSWZma3RkeFQ5VmdLOV9OVXNpYXNlVTlDVXZCUFVHbThDMjNWcHpZendZdi1NWk0?oc=5",
+      "source": "Morningstar",
+      "published": "Mon, 23 Nov 2026 11:39:01 GMT"
     },
     {
       "region": "중국",
@@ -67,12 +58,30 @@
     },
     {
       "region": "중국",
-      "title": "China needs to shore up its public finances. Is an estate tax the answer? - South China Morning Post",
-      "title_ko": "중국은 공공재정을 강화해야 한다. 유산세가 답인가? - 사우스차이나모닝포스트",
+      "title": "The AI bust is a growing threat to China's economy and a 'moment of real danger' for President Xi Jinping, analyst warns - Fortune",
+      "title_ko": "AI 붕괴는 중국 경제에 대한 위협이 커지고 있으며 시진핑 주석에게 '실질적인 위험의 순간'이라고 분석가가 경고 - Fortune",
       "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUWMxakNmVENHbS1lWVY0N0lZX1BlbDJmeG1ybWdjYWZCS2l3UWdjcFVVcVdqajBibmZkczVKSjkwclVsSlBxT2Z0MEZ6anhOWU5QUURFYzcyN2lBajByaW52V2kwZHY2QllUMGF1cmhSUDdlMnljSWpfMDdRYWJoOU5JWGJlaUg4aTBIa2xUSm1SMEVFRGl6YXFOTGNBLXZCcXdBUUdjbFlsQjlURmRKUWFFbjF3aFBFUVNodkRId1lMN2dEaGIycHZB0gHKAUFVX3lxTFBvWl9iT1ZXN3F6MV9iLUxiSHlRem1oYVJNcFc4VFhDTmg2SU1neHdjLXR0ZzhFd3VVRVpCVTdDeFJKVWYzUXEwOUQ3R3JoaGdKejhtdnVkRGpXR09mbnlIYzZCNnF5Y08xX19FdmZDYWZGY2RGZGp3MHFKWXFCTjg5SkpJRG5PVjNqZkZCRDZ1dDBHcFh5NmhPN1ZqNW5CMHE0cmdLaVRodEJFU3AyTmo3dURpNjNPSy11aHpkQ0FFNU94T1laYjIwTHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG5tbmx0N1dqVUw3NEtYNF9DU21hdXZNMlIzX21VV1ZrTG5wNWNlT0V2VVhhOFBsUjdHMFFaZW1sQVg1b2xZeWlodm1tREVoWTluTHhZWnMzVUl6a2JqcE5nblpZS1hlSjZRS2ZqNV95OFBTa05wUlpWMWJrUmlnTDhHazRXWEpHZW5yV1hPWGx4a21XYnZV?oc=5",
+      "source": "Fortune",
+      "published": "Sat, 21 Nov 2026 21:45:00 GMT"
+    },
+    {
+      "region": "중국",
+      "title": "China economy: Growth accelerates as AI export boom outweighs domestic weakness - BBC",
+      "title_ko": "중국 경제: AI 수출 호황이 국내 약점을 능가하면서 성장 가속화 - BBC",
+      "translation_ok": true,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5",
+      "source": "BBC",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "region": "중국",
+      "title": "Chinese state media hits out at ‘deflation trap’ warnings, defends economy - South China Morning Post",
+      "title_ko": "중국 국영 언론, '디플레이션 함정' 경고 비난, 경제 옹호 - 사우스차이나모닝포스트",
+      "translation_ok": true,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHh4c3JJUHVBakpPNlR2N0hFQXlYREI1SkVtTjAwU0JKMnBncXFNajVjaUJxWTM0NjdiMnZBRWgxVk9JNjNOb1VGRnN1ZEFlSGtQNXR3SjVVQkE4Nl9lNnhiY3ladm9WV29pWUVjSzFEaGZZVUZfXzlGd1FGMUNZT2wxQjI4U1laUnY3bzFSMzZiRUF1S1U2ZjVHejN0aHVRYkNfNEozWVlwMzloeXFVUk9nVVdwaGJUZ2NzV29QWmlFUkJMN0pxZWVCLVVpTjItUEV5UWlDONIB1wFBVV95cUxNTnNmTUVIOVczNTJpSkZNaXFERG9teE9SLXp1blpXcGFQOXllNlN4TUktODlka1BXRmlJZE1nWTg1S0JnbGVPNG5lRHQ2MHJndDN0V2R6TldZNklNVW5EZ0NFVUxrY2pCOVJsOFM3eGlPNTktbmtaamZrR2JZN3cwTHcxTk56SmlQTU8xclJGand2S2c0SXRLQlpSR0xScnRBakt5VU1DWVFCUmxOWGVrWnZzaHJQQW4xTXhILVZWTE9BUmtEQzJpaFR3YjdIWVRpWWlRc3NUOA?oc=5",
       "source": "South China Morning Post",
-      "published": "Sun, 22 Nov 2026 07:00:08 GMT"
+      "published": "Mon, 23 Nov 2026 08:06:50 GMT"
     },
     {
       "region": "중국",
@@ -84,13 +93,13 @@
       "published": "Sat, 21 Nov 2026 07:34:00 GMT"
     },
     {
-      "region": "중국",
-      "title": "COMMENTARY: Xi faced Trump with weak economic hand - Reuters",
-      "title_ko": "논평: 시은 경제적으로 약한 손으로 트럼프를 상대했다 - 로이터",
+      "region": "유럽",
+      "title": "ECB pushes for greater European economic and technological sovereignty - Digital Watch Observatory",
+      "title_ko": "ECB, 유럽의 경제 및 기술 주권 확대 추진 - Digital Watch Observatory",
       "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGtFWXlFUGpLMEp5SmZZZHgzbkRfSDJJY3g0YlJLeTJGRDVkWi1rQXBpUTJzMGp3WkJXMzZQVElGSWNFZHIxUTI4UXZLdGJjQWN4YVZhZ3BzTjZGWksyaUZFcTVpZjdoV2FvOVc3OTR1U3JOb24zOElNdC1kU3BHUnhITlg3SkFnMWpWQ2VKSE52M2ExWHJnQ01WS0RiSTJZT2c0QmoySjhfSkJFVTh4cnAxTEdVSmc?oc=5",
-      "source": "Reuters",
-      "published": "Thu, 19 Nov 2026 23:30:45 GMT"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zdnBlX2pQSE5mZFBUcUJBXzFpamVXLXplZjJsWVZFYTVrLUV4VHZpVVlaUkhISWU2SE9UYUhYVnpqRGNXODdwXzBheUpvVW5jVTBDZ25TNjZPaWd3MFdFZzg3VkxwaEZzdHFnd0s4bGpBdS1Ubkk0TkJ0WG15QQ?oc=5",
+      "source": "Digital Watch Observatory",
+      "published": "Mon, 23 Nov 2026 11:09:59 GMT"
     },
     {
       "region": "유럽",
@@ -121,21 +130,12 @@
     },
     {
       "region": "유럽",
-      "title": "Europe's economic resilience gives ECB greater room to move rates, Lagarde says - Reuters",
-      "title_ko": "라가르드는 유럽의 경제적 회복력으로 인해 ECB가 금리를 변동시킬 수 있는 여지가 더 커졌다고 말했습니다. - Reuters",
+      "title": "France and Germany complete political deal for ECB leadership - POLITICO.eu",
+      "title_ko": "프랑스와 독일, ECB 지도부를 위한 정치적 합의 완료 - POLITICO.eu",
       "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUszT2lMQnNpaUxGbFpJNG1KMDJJNmF4ZUJKX1g3ejBKbGhxbTRIWGNOTHBBbzA3enRTUFZDLTR6ek1fRnZLV3RUOTdGRFg2V3JOYUVSUFlhOTY5bFo5Y1JvX1V1OFRyTUZCZElwaDRTOVpSWTdITXg0YjZZeWZpWk03U0Rxcy04MzFPRUlIaVM0U0FIOFFfX01BNmpSZmx5OWFBTjZFNEdaQ25RZUJaTjlNOC14Um1LaVpaazJ2Qjh3aTZVMkE?oc=5",
-      "source": "Reuters",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "region": "유럽",
-      "title": "Lagarde: Europe has seen a resilient economy - Breakingthenews.net",
-      "title_ko": "라가르드: 유럽은 회복력 있는 경제를 보였습니다 - Breakingthenews.net",
-      "translation_ok": true,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcU04X2poWTVmd1JiSXJkQWh3TTVHWklpUnc5QVNGZXBqV1RhVDY3XzNCZFJkZ1dkZXB1MDZmZV95Wm5FTXVtb2ViWEtyc1ROVldnc2E0RjB0ZWVxLVhPQS1KYTlENXJHMmdQems3ZjhJVl9KWHdQYmxiM05PSXVaVEotWTJ6MXYtdmVfXzhXY1UybVU?oc=5",
-      "source": "Breakingthenews.net",
-      "published": "Wed, 18 Nov 2026 15:17:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXdLTndYc0J0SENSN3ZLSDR2Z1ZUVjB3cTFITXVPeVBFcERkNWktaWVPTElwNXhqUXhmdlhLOUxPQmh0ejB5OVlVN2N6d0dzX3hKb21NNzlsa0Z2UlRVMndUdjNLY0ZNalBrTkVsNGNvWkptS2RfcGNYTkJDVW5UTlRNZFRXU0xTYnQyTG1FXzNzb0J0?oc=5",
+      "source": "POLITICO.eu",
+      "published": "Fri, 20 Nov 2026 16:50:00 GMT"
     }
   ]
 }
